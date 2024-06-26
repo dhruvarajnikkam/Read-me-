@@ -1,3 +1,4 @@
+![logo](https://github.com/dhruvarajnikkam/Read-me-/blob/main/DHRUVARAJ%20NIKAM.png)
 # Hi there, I'm Dhruvaraj Nikam! 👋
 
 I am a third-year Computer Engineering student at Pune University passionate about leadership, entrepreneurship, and innovation. With a strong track record in startups, hackathons, and impactful projects, I thrive on merging technology with strategic vision to solve real-world challenges.
