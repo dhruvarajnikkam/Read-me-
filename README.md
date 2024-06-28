@@ -13,6 +13,7 @@ I am a third-year Computer Engineering student at Pune University passionate abo
 ![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-FF6F00?style=for-the-badge&logo=augmented-reality&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-3D85C6?style=for-the-badge&logo=project-management&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 
 ### Soft Skills
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FFD700?style=for-the-badge&logo=thinking&logoColor=black)
@@ -57,6 +58,12 @@ Developed an innovative AR-based physics learning tool, setting a world record.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 I am eager to collaborate on innovative projects and contribute my skills to impactful initiatives. Let's connect and create something amazing together!
+
+---
+
+## 🌐 Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvarajnikkam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
