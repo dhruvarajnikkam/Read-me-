@@ -41,13 +41,6 @@ I am a third-year Computer Engineering student at Pune University passionate abo
 
 ---
 
-## 📊 GitHub Stats
-
-![Dhruvaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvarajnikkam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvarajnikkam&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects
 
 ### Spectra Medica AR App
